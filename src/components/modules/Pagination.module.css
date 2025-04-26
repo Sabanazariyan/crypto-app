@@ -32,3 +32,9 @@
 .selected {
     background-color: #3874ff;
 }
+
+@media (max-width:500px){
+  .pagination {
+    width: 100%;
+  }
+}
