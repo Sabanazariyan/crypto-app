@@ -203,6 +203,7 @@
 @media (max-width: 768px) {
   .chart {
     padding: 15px;
+    margin: 10px auto 0;
   }
 
   .graph {
@@ -230,5 +231,8 @@
     align-items: center;
     text-align: center;
     margin-top: 20px;
+  }
+  .cross{
+    margin:0;
   }
 }
